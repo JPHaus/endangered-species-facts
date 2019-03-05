@@ -2,7 +2,7 @@
 #    docs.serverless.com
 
 service: endangered-species-facts
-stage: dev
+stage: prod
 region: us-east-1
 frameworkVersion: ">=1.4.0 <2.0.0"
 
