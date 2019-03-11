@@ -1,11 +1,11 @@
 {
-  "Amur Leopard": {
+  "amur leopard": {
     "Facts": [""],
     "Scientific Name": "Panthera pardus orientalis",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/amur-leopard"
   },
-  "Black Rhino": {
+  "black rhino": {
     "Facts": [
       "The black rhino once roamed most of sub-Saharan Africa, but today is on the verge of extinction due to poaching fueled by commercial demand for its horn.",
       "Black rhinos have been known to charge at trains passing through their territory.",
@@ -20,43 +20,43 @@
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/black-rhino"
   },
-  "Bornean Orangutan": {
+  "bornean orangutan": {
     "Facts": [""],
     "Scientific Name": "Pongo pygmaeus",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/bornean-orangutan"
   },
-  "Cross River Gorilla": {
+  "cross river gorilla": {
     "Facts": [""],
     "Scientific Name": "Gorilla gorilla diehli",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/cross-river-gorilla"
   },
-  "Eastern Lowland Gorilla": {
+  "eastern lowland gorilla": {
     "Facts": [""],
     "Scientific Name": "Gorilla beringei graueri",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/eastern-lowland-gorilla"
   },
-  "Hawksbill Turtle": {
+  "hawksbill turtle": {
     "Facts": [""],
     "Scientific Name": "Eretmochelys imbricata",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/hawksbill-turtle"
   },
-  "Javan Rhino": {
+  "javan rhino": {
     "Facts": [""],
     "Scientific Name": "Rhinoceros sondaicus",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/javan-rhino"
   },
-  "Malayan Tiger": {
+  "malayan tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris jacksoni",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/malayan-tiger"
   },
-  "Orangutan": {
+  "orangutan": {
     "Facts": [
       "Like humans, orangutans have opposable thumbs. Their big toes are also opposable. Unlike humans, approximately one third of all orangutans do not have nails on their big toes.",
       "The Malay word orangutan means \"person of the forest.\"",
@@ -72,73 +72,73 @@
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/orangutan"
   },
-  "Saola": {
+  "saola": {
     "Facts": [""],
     "Scientific Name": "Pseudoryx nghetinhensis",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/saola"
   },
-  "South China Tiger": {
+  "south china tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris amoyensis",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/south-china-tiger"
   },
-  "Sumatran Elephant": {
+  "sumatran elephant": {
     "Facts": [""],
     "Scientific Name": "Elephas maximus sumatranus",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/sumatran-elephant"
   },
-  "Sumatran Orangutan": {
+  "sumatran orangutan": {
     "Facts": [""],
     "Scientific Name": "Pongo abelii",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/sumatran-orangutan"
   },
-  "Sumatran Rhino": {
+  "sumatran rhino": {
     "Facts": [""],
     "Scientific Name": "Dicerorhinus sumatrensis",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/sumatran-rhino"
   },
-  "Sumatran Tiger": {
+  "sumatran tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris sumatrae",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/sumatran-tiger"
   },
-  "Vaquita": {
+  "vaquita": {
     "Facts": [""],
     "Scientific Name": "Phocoena sinus",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/vaquita"
   },
-  "Western Lowland Gorilla": {
+  "western lowland gorilla": {
     "Facts": [""],
     "Scientific Name": "Gorilla gorilla gorilla",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/western-lowland-gorilla"
   },
-  "Yangtze Finless Porpoise": {
+  "yangtze finless porpoise": {
     "Facts": [""],
     "Scientific Name": "Neophocaena asiaeorientalis ssp. asiaeorientalis",
     "Conservation Status": "Critically Endangered (CR)",
     "More Info": "https://www.worldwildlife.org/species/yangtze-finless-porpoise"
   },
-  "African Wild Dog": {
+  "african wild dog": {
     "Facts": [""],
     "Scientific Name": "Lycaon pictus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/african-wild-dog"
   },
-  "Amur Tiger": {
+  "amur tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris altaica",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/amur-tiger"
   },
-  "Asian Elephant": {
+  "asian elephant": {
     "Facts": [
       "Asian elephants can be identified by their smaller, rounded ears. (An African elephant's ears resemble the continent of Africa.)",
       "Elephant ears radiate heat to help keep these large animals cool, but sometimes that isn't enough. Elephants are fond of water and enjoy showering by sucking water into their trunks and spraying it all over themselves.",
@@ -152,19 +152,19 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/asian-elephant"
   },
-  "Bengal Tiger": {
+  "bengal tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris tigris",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/bengal-tiger"
   },
-  "Black-footed Ferret": {
+  "black footed ferret": {
     "Facts": [""],
     "Scientific Name": "Mustela nigripes",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/black-footed-ferret"
   },
-  "Blue Whale": {
+  "blue whale": {
     "Facts": [
       "The Blue Whale is the largest animal ever to have lived on earth.", 
       "The Blue Whale's tongue alone can weigh as much as an elephant - its heart, as much as a car.",
@@ -176,25 +176,25 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/blue-whale"
   },
-  "Bluefin Tuna": {
+  "bluefin tuna": {
     "Facts": [""],
     "Scientific Name": "Thunnus spp",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/bluefin-tuna"
   },
-  "Bonobo": {
+  "bonobo": {
     "Facts": [""],
     "Scientific Name": "Pan paniscus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/bonobo"
   },
-  "Borneo Pygmy Elephant": {
+  "borneo pygmy elephant": {
     "Facts": [""],
     "Scientific Name": "Elephas maximus borneensis",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/borneo-pygmy-elephant"
   },
-  "Chimpanzee": {
+  "chimpanzee": {
     "Facts": [
       "Researchers have proven that chimpanzees are self-aware and can anticipate the impact of their actions on the environment around them, an ability once thought to be uniquely human.",
       "Chimpanzees have been shown to have their own individual personalities.",
@@ -207,25 +207,25 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/chimpanzee"
   },
-  "Fin Whale": {
+  "fin whale": {
     "Facts": [""],
     "Scientific Name": "Balaenoptera physalus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/fin-whale"
   },
-  "Galápagos Penguin": {
+  "galapagos penguin": {
     "Facts": [""],
     "Scientific Name": "Spheniscus mendiculus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/galapagos-penguin"
   },
-  "Ganges River Dolphin": {
+  "ganges river dolphin": {
     "Facts": [""],
     "Scientific Name": "Platanista gangetica gangetica",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/ganges-river-dolphin"
   },
-  "Green Sea Turtle": {
+  "green sea turtle": {
     "Facts": [
       "It is named not for the color of its shell, which is normally brown or olive depending on its habitat, but for the greenish color of its skin.",
       "Weighing up to 700 pounds green turtles are among the largest sea turtles in the world.",
@@ -238,55 +238,55 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/green-turtle"
   },
-  "Hector's Dolphin": {
+  "hector's dolphin": {
     "Facts": [""],
     "Scientific Name": "Cephalorhynchus hectori",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/hector-s-dolphin"
   },
-  "Humphead Wrasse": {
+  "humphead wrasse": {
     "Facts": [""],
     "Scientific Name": "Cheilinus undulatus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/humphead-wrasse"
   },
-  "Indian Elephant": {
+  "indian elephant": {
     "Facts": [""],
     "Scientific Name": "Elephas maximus indicus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/indian-elephant"
   },
-  "Indochinese Tiger": {
+  "indochinese tiger": {
     "Facts": [""],
     "Scientific Name": "Panthera tigris corbetti",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/indochinese-tiger"
   },
-  "Indus River Dolphin": {
+  "indus river dolphin": {
     "Facts": [""],
     "Scientific Name": "Platanista minor",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/indus-river-dolphin"
   },
-  "Irrawaddy Dolphin": {
+  "irrawaddy dolphin": {
     "Facts": [""],
     "Scientific Name": "Orcaella brevirostris",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/irrawaddy-dolphin"
   },
-  "Mountain Gorilla": {
+  "mountain gorilla": {
     "Facts": [""],
     "Scientific Name": "Gorilla beringei beringei",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/mountain-gorilla"
   },
-  "North Atlantic Right Whale": {
+  "north atlantic right whale": {
     "Facts": [""],
     "Scientific Name": "Eubalaena glacialis",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/north-atlantic-right-whale"
   },
-  "Red Panda": {
+  "red panda": {
     "Facts": [
       "These pandas typically grow to the size of a house cat, though their big, bushy tails add an additional 18 inches.",
       "The pandas use their ringed tails as wraparound blankets in the chilly mountain heights.",
@@ -299,25 +299,25 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/red-panda"
   },
-  "Sea Lion": {
+  "sea lion": {
     "Facts": [""],
     "Scientific Name": "Zalophus wollebaeki",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/sea-lions"
   },
-  "Sei Whale": {
+  "sei whale": {
     "Facts": [""],
     "Scientific Name": "Balaenoptera borealis",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/sei-whale"
   },
-  "Sri Lankan Elephant": {
+  "sri lankan elephant": {
     "Facts": [""],
     "Scientific Name": "Elephas maximus maximus",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/sri-lankan-elephant"
   },
-  "Tiger": {
+  "tiger": {
     "Facts": [
       "The Tiger's beautiful orange and black striped coats provide camouflage when hunting prey at night when they can reach speeds of 40 miles per hour.",
       "Tigers are powerful apex predators that are at the top of the food chain and capable of killing animals over twice their size.",
@@ -330,13 +330,13 @@
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/tiger"
   },
-  "Whale": {
+  "whale": {
     "Facts": [""],
     "Scientific Name": "Balaenoptera, Balaena, Eschrichtius, and Eubalaen",
     "Conservation Status": "Endangered (EN)",
     "More Info": "https://www.worldwildlife.org/species/whale"
   },
-  "Whale Shark": {
+  "whale shark": {
     "Facts": [""],
     "Scientific Name": "Rhincodon typus",
     "Conservation Status": "Endangered (EN)",
