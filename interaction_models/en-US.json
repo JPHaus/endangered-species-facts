@@ -27,7 +27,7 @@
                     "samples": []
                 },
                 {
-                    "name": "GetRandomFactIntent",
+                    "name": "GetRandomFact",
                     "slots": [],
                     "samples": [
                         "a random fact",
@@ -81,6 +81,19 @@
                         "what number of species are endangered",
                         "how many species are currently endangered",
                         "how many species are endangered"
+                    ]
+                },
+                {
+                    "name": "GetSpecificSpeciesFact",
+                    "slots": [
+                        {
+                            "name": "species",
+                            "type": "AMAZON.Animal"
+                        }
+                    ],
+                    "samples": [
+                        "get me a {species} fact",
+                        "tell me a {species} fact"
                     ]
                 }
             ],
